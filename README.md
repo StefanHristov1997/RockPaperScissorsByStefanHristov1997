@@ -25,6 +25,8 @@ The winner is the player whose choice beats the choice of his opponent. If both 
 
 > To enter "scissors" or "s"
 
+> If the player enters a different command, the console returns a message that he entered an invalid input.
+
 Computer chooses randomly, then the result is announced.
 
 # Solution

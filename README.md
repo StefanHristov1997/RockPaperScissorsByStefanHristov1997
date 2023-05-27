@@ -46,3 +46,12 @@ Computer chooses randomly, then the result is announced.
 ![image](https://github.com/StefanHristov1997/RockPaperScissorsByStefanHristov1997/assets/133797718/1fdf55fc-ff67-4d09-8225-f9db1d919f96)
 
 
+# Screenshots result 
+
+![image](https://github.com/StefanHristov1997/RockPaperScissorsByStefanHristov1997/assets/133797718/77763395-009b-4721-a255-33f55fa0db9d)
+
+![image](https://github.com/StefanHristov1997/RockPaperScissorsByStefanHristov1997/assets/133797718/c62ac26d-dabc-4b1f-b202-35774a686549)
+
+
+
+

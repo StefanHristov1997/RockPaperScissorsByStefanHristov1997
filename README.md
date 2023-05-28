@@ -20,13 +20,13 @@ The winner is the player whose choice beats the choice of his opponent. If both 
 
 Тhe player has these options in front of him:
 
-➡️ To enter "rock" or "r"
+🪨 To enter "rock" or "r"
 
-➡️ To enter "paper" or "p"
+🧻 To enter "paper" or "p"
 
-➡️ To enter "scissors" or "s"
+✂️ To enter "scissors" or "s"
 
-➡️ If the player enters a different command, the console returns a message that he entered an invalid input. ◀️ 
+⁉️ If the player enters a different command, the console returns a message that he entered an invalid input. ◀️ 
 
 Computer chooses randomly, then the result is announced.
 

@@ -1,5 +1,5 @@
-# "Rock_Paper_Scissors" Console Game
-The simple console game made by me "Paper Rock Scissors" 
+# "Rock_Paper_Scissors" Console Game :)
+The simple console game made by me for the fisrt student project in Software university in Bulgaria.
 Rock - Paper - Scissors is a simple two player game where you and your opponent (the computer) simultaneously
 choose one of the following three options: "rock", "paper" or "scissors". The rules are as follows:
 

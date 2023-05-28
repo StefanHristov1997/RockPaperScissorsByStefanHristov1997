@@ -14,7 +14,7 @@ The winner is the player whose choice beats the choice of his opponent. If both 
 (e.g. "paper"), the game outcome is "draw": 😜
 
 
-![image](https://github.com/StefanHristov1997/RockPaperScissorsByStefanHristov1997/assets/133797718/ccb2b133-1a49-477f-8375-06909b98ff1f)
+![image](https://github.com/StefanHristov1997/RockPaperScissorsByStefanHristov1997/assets/133797718/b3438756-ed2e-44e2-9959-d21f30c9395f)
 
 # INPUT & OUTPUT
 

@@ -1,5 +1,5 @@
-# "Rock_Paper_Scissors" Console Game :)
-The simple console game made by me for the fisrt student project in Software university in Bulgaria.
+# "Rock_Paper_Scissors" Console Game ⭐ ⭐
+The simple console game made by me for the fisrt student project in Software university in Bulgaria. 🙂 🙂
 Rock - Paper - Scissors is a simple two player game where you and your opponent (the computer) simultaneously
 choose one of the following three options: "rock", "paper" or "scissors". The rules are as follows:
 
@@ -10,7 +10,7 @@ choose one of the following three options: "rock", "paper" or "scissors". The ru
 > Paper beats rock (the paper covers the rock)
 
 The winner is the player whose choice beats the choice of his opponent. If both players choose the same option
-(e.g. "paper"), the game outcome is "draw":
+(e.g. "paper"), the game outcome is "draw": 😜
 
 
 ![image](https://github.com/StefanHristov1997/RockPaperScissorsByStefanHristov1997/assets/133797718/ccb2b133-1a49-477f-8375-06909b98ff1f)
@@ -25,7 +25,7 @@ The winner is the player whose choice beats the choice of his opponent. If both 
 
 > To enter "scissors" or "s"
 
-> If the player enters a different command, the console returns a message that he entered an invalid input.
+> If the player enters a different command, the console returns a message that he entered an invalid input. ◀️ 
 
 Computer chooses randomly, then the result is announced.
 
